@@ -164,7 +164,7 @@ library
       aeson                 >=1.4.0.0    && <1.5
     , base-compat           >=0.10.4     && <0.11
     , base16-bytestring     >=0.1.1.6    && <0.2
-    , binary-instances      >=1          && <1.1
+    , binary-orphans        >=0.1.8      && <0.2
     , cryptohash-sha1       >=0.11.100.1 && <0.12
     , deepseq-generics      >=0.2.0.0    && <0.3
     , exceptions            >=0.10.2     && <0.11
